@@ -119,3 +119,15 @@ Link - https://leetcode.com/problems/number-of-islands/
     ```
 
 </details>
+
+<details>
+    <summary>Time Space Complexity</summary>
+
+    #### Time Complexity
+    O(V+E)
+    V=mn, E=4mn
+    O(mn)
+    #### Space Complexity
+    O(mn), where mn is the number of cells in the input matrix
+
+</details>
