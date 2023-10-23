@@ -3,9 +3,9 @@
 Link - https://leetcode.com/problems/rotting-oranges/
 
 <details>
-<summary>Solution (Click to expand)</summary>
-    ```cpp
-        class Solution {
+    <summary>Solution (Click to expand)</summary>
+
+    class Solution {
         public:
             int m;
             int n;
@@ -76,7 +76,9 @@ Link - https://leetcode.com/problems/rotting-oranges/
                 return max-2;
             }
 
-        };
-    ```
+    };
 
 </details>
+
+Better approach -
+yt - https://youtu.be/y704fEOx0s0
